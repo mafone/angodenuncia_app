@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "angodenuncia_app",
+    "slug": "angodenuncia_app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "angodenuncia_app"
+}
